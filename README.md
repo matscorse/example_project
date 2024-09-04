@@ -2,3 +2,5 @@
 
 This project is a github dry run exercise.  
 This was the first remote edit of README.md
+
+Edit this file to test git interactions
